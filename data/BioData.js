@@ -2,20 +2,20 @@
 const bioData = [
     {
         name: 'No Chill',
-        username: 'nxtlnk.vercel.app',
-        url: 'https://nxtlnk.vercel.app',
+        username: 'No Chill',
+        url: 'https://nochill.netlify.app/',
         titleImg: true,
         avatar: '/avatar.png',
-        nftAvatar: true,
+        nftAvatar: false,
         description: '"Bruh, I aint got no chill"',
         descShow: true,
         subdesc: 'Its watching',
         subdescShow: true,
         newProductUrl: 'https://3dicons.co',
-        newProduct: true,
-        author: 'realvjy',
+        newProduct: false,
+/*         author: 'realvjy',
         authorURL: 'https://twitter.com/realvjy',
-        footerText: 'made by'
+        footerText: 'made by' */ 
     },
 ];
 
