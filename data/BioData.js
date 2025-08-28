@@ -9,7 +9,7 @@ const bioData = [
         nftAvatar: true,
         description: '"Bruh, I aint got no chill"',
         descShow: true,
-        subdesc: '"It's watching'",
+        subdesc: 'Its watching',
         subdescShow: true,
         newProductUrl: 'https://3dicons.co',
         newProduct: true,
