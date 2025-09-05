@@ -126,7 +126,7 @@ const webLinks = [
         url: 'https://github.com/realvjy/nxt-lnk#nxt-lnk',
         type: 'install',
         icon: '/doc.png',
-        on: true
+        on: false
     },
     {
         title: 'Github',
