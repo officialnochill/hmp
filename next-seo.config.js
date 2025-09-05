@@ -1,7 +1,7 @@
 export default {
     openGraph: {
         type: 'website',
-        locale: 'en_IE',
+        locale: 'en_za',
         title: 'A home for No Chill',
         url: 'nochill.netlify.app',
         description: 'Bruh, I aint got No Chill',
