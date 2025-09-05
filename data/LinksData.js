@@ -41,7 +41,7 @@ const webLinks = [
         url: 'https://www.youtube.com/@officialnochill/',
         type: 'social',
         icon: '/youtube.svg',
-        on: false
+        on: true
     },
     {
         title: 'Figma',
