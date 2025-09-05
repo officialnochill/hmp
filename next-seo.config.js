@@ -14,11 +14,11 @@ export default {
                 url: `https://github.com/officialnochill/hmp/blob/main/public/preview.png`,
             },
         ],
-        site_name: 'realvjy',
+        site_name: 'A home for No Chill',
     },
     twitter: {
         handle: 'off_nochill',
-        site: 'vjy.me',
+        site: 'nochill.netlify.app',
         cardType: 'summary_large_image',
     },
 };
