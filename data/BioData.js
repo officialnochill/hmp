@@ -7,7 +7,7 @@ const bioData = [
         titleImg: true,
         avatar: '/avatar.png',
         nftAvatar: false,
-        description: '"Bruh, I aint got no chill"',
+        description: '"Bruh, I aint got No Chill"',
         descShow: true,
         subdesc: 'Its watching',
         subdescShow: true,
