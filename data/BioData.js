@@ -10,7 +10,7 @@ const bioData = [
         description: '"Bruh, I aint got No Chill"',
         descShow: true,
         subdesc: 'Its watching',
-        subdescShow: false,
+        subdescShow: true,
         newProductUrl: 'https://3dicons.co',
         newProduct: false,
 /*         author: 'realvjy',
