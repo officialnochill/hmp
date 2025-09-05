@@ -139,7 +139,7 @@ const webLinks = [
     {
         title: 'Check out my Showreel!',
         url: 'https://youtu.be/w4RsLRdMNjA',
-        type: 'Who am I?',
+        type: 'other',
         icon: '/bmc.png',
         on: true
     },
