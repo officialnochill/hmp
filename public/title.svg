@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="40"
-   height="2.1099999"
-   viewBox="0 0 40 2.1099999"
+   width="131.61827"
+   height="2.1072726"
+   viewBox="0 0 131.61827 2.1072726"
    fill="none"
    version="1.1"
    id="svg5"
@@ -21,9 +21,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="26.540277"
-     inkscape:cx="24.905542"
-     inkscape:cy="1.8650898"
+     inkscape:zoom="6.6350693"
+     inkscape:cx="59.682873"
+     inkscape:cy="-4.2953583"
      inkscape:window-width="2560"
      inkscape:window-height="1440"
      inkscape:window-x="0"
@@ -63,23 +63,14 @@
   </defs>
   <text
      xml:space="preserve"
-     style="font-weight:300;font-size:11.2234px;line-height:0;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans Light';text-align:start;letter-spacing:0px;word-spacing:-0.712569px;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#00aa00;fill-opacity:1;stroke:#00aa00;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-     x="2.1718268"
-     y="1.7672176"
-     id="text86-3-43-2"
-     transform="scale(0.9928287,1.0072231)"><tspan
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.68903px;line-height:6.93226px;font-family:'MxPlus IBM VGA 8x16';-inkscape-font-specification:'MxPlus IBM VGA 8x16, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;direction:ltr;text-anchor:middle;fill:#000000;stroke-width:3.18361"
+     x="61.502335"
+     y="1.6079832"
+     id="text5"
+     transform="scale(1.0700266,0.93455619)"><tspan
        sodipodi:role="line"
-       id="tspan86-3-9-5"
-       x="2.1718268"
-       y="1.7672176"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.55923px;line-height:0;font-family:'Mx437 IBM VGA 8x16';-inkscape-font-specification:'Mx437 IBM VGA 8x16, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:-0.712569px;fill:#00aa00;fill-opacity:1;stroke:#00aa00;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"><tspan
-   style="line-height:0;letter-spacing:0px;word-spacing:-0.712569px;fill:#e6e6e6;stroke-width:0"
-   id="tspan151-83-72-2">[</tspan>&gt;<tspan
-   style="line-height:0;letter-spacing:0px;word-spacing:-0.712569px;fill:#e6e6e6;fill-opacity:1;stroke-width:0"
-   id="tspan150-7-5-4">]The Universe is, and we are.</tspan></tspan><tspan
-       sodipodi:role="line"
-       x="2.1718268"
-       y="4.3246784"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.55923px;line-height:0;font-family:'Mx437 IBM VGA 8x16';-inkscape-font-specification:'Mx437 IBM VGA 8x16, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;word-spacing:-0.712569px;fill:#00aa00;fill-opacity:1;stroke:#00aa00;stroke-width:0;stroke-dasharray:none;stroke-opacity:1"
-       id="tspan149-9-8-4" /></text>
+       id="tspan5"
+       x="61.502335"
+       y="1.6079832"
+       style="stroke-width:3.18361">................................</tspan></text>
 </svg>

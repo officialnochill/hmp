@@ -1,4 +1,4 @@
-im// date 29-Jul, 2022
+// date 29-Jul, 2022
 const webLinks = [
     // All social profile
     {
@@ -41,7 +41,7 @@ const webLinks = [
         url: 'https://www.youtube.com/@officialnochill/',
         type: 'social',
         icon: '/youtube.svg',
-        on: true
+        on: false
     },
     {
         title: 'Figma',
@@ -126,7 +126,7 @@ const webLinks = [
         url: 'https://github.com/realvjy/nxt-lnk#nxt-lnk',
         type: 'install',
         icon: '/doc.png',
-        on: false
+        on: true
     },
     {
         title: 'Github',
@@ -139,7 +139,7 @@ const webLinks = [
     {
         title: 'Check out my Showreel!',
         url: 'https://youtu.be/w4RsLRdMNjA',
-        type: 'Who am I?',
+        type: 'other',
         icon: '/bmc.png',
         on: true
     },
