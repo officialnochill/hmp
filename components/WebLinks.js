@@ -278,7 +278,7 @@ const Title = styled.div`
       -webkit-text-fill-color: transparent;
       background-clip: text;
       @media screen and (max-width: ${({ theme }) => theme.deviceSize.tablet}) {
-        font-size: 32px;
+        font-size: 20px;
       }
     }
     h3{
