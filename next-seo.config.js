@@ -11,7 +11,7 @@ export default {
             {
                 width: 1200,
                 height: 630,
-                url: `https://raw.githubusercontent.com/officialnochill/hmp/refs/heads/main/public/preview.png`,
+                url: `https://i.imgur.com/JpsBH9s.png`,
             },
         ],
         site_name: 'A home for No Chill',
