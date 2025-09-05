@@ -9,8 +9,8 @@ export default {
         keywords: 'print, game design',
         images: [
             {
-                width: 1200,
-                height: 630,
+                width: 1007,
+                height: 583,
                 url: `https://i.imgur.com/JpsBH9s.png`,
             },
         ],
