@@ -2,7 +2,7 @@
 const bioData = [
     {
         name: 'No Chill',
-        username: 'No Chill',
+        username: ' ',
         url: 'https://nochill.netlify.app/',
         titleImg: false,
         avatar: '/avatar.png',
