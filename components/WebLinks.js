@@ -269,7 +269,7 @@ const Title = styled.div`
     flex-direction: column;
     align-items: center;
     h1{
-      font-size: 38px;
+      font-size: 20px;
       font-weight: 700;
       
       letter-spacing: -2px;
