@@ -11,7 +11,7 @@ export default {
             {
                 width: 1200,
                 height: 630,
-                url: `https://vjy.me/preview.jpg`,
+                url: `https://github.com/officialnochill/hmp/blob/main/public/preview.png`,
             },
         ],
         site_name: 'realvjy',
